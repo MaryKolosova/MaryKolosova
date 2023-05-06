@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMTtg_vCyUlYd7U7yjWHox8" height="200" />
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)] (https://git.io/typing-svg)
+[![Typing SVG] (https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)] (https://git.io/typing-svg)
 ![Mary's GitHub stats] (https://github-readme-stats.vercel.app/api?username=marykolosova&theme=omni&show_icons=true)
 [![codewars](https://www.codewars.com/users/MaryKolosova/badges/large)] (https://www.codewars.com/users/MaryKolosova)   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marykolosova)] (https://git.io/streak-stats)
