@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMTtg_vCyUlYd7U7yjWHox8" height="200" />
 </p>
+![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?marykolosova=anuraghazra&theme=omni&show_icons=true)
 <!--
 **MaryKolosova/MaryKolosova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?marykolosova=anuraghazra&theme=omni&show_icons=true)
