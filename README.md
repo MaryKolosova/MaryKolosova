@@ -4,6 +4,7 @@
 </p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)] (https://git.io/typing-svg)
 ![Mary's GitHub stats] (https://github-readme-stats.vercel.app/api?username=marykolosova&theme=omni&show_icons=true)
+[![codewars](https://www.codewars.com/users/marykolosova/badges/large)] (https://www.codewars.com/users/marykolosova)   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marykolosova)] (https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marykolosova&layout=compact)] (https://github.com/anuraghazra/github-readme-stats)
 <!--
