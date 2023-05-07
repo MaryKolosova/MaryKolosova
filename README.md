@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMTtg_vCyUlYd7U7yjWHox8" height="200" />
 </p>
-![](https://komarev.com/ghpvc/?username=marykolosova&color=green)
+
+![](https://komarev.com/ghpvc/?username=marykolosova&color=ff69b4)     
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
 
