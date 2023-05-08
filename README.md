@@ -4,6 +4,7 @@
 </p>
 
 <p align="center">
+  
   ![Jokes Card](https://readme-jokes.vercel.app/api)
   
   ![](https://komarev.com/ghpvc/?username=marykolosova&color=ff69b4)     
