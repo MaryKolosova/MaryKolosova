@@ -3,6 +3,8 @@
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMTtg_vCyUlYd7U7yjWHox8" height="200" />
 </p>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ![](https://komarev.com/ghpvc/?username=marykolosova&color=ff69b4)     
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Mary+-+Frontend+developer)](https://git.io/typing-svg)
