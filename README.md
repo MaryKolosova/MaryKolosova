@@ -37,6 +37,8 @@
 </p>
 <!--![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=🥰&desc=helloworld&fill=ffc0cd)-->
 
+![Metrics](https://metrics.lecoq.io/marykolosova)
+
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marykolosova&theme=omni)
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marykolosova&theme=omni)
