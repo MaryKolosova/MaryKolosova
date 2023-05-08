@@ -31,11 +31,11 @@
  <a href="https://github.com/harish-sethuraman/readme-components">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
  </a>
+</p>
+<!--![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=🥰&desc=helloworld&fill=ffc0cd)
  <a href="https://github.com/harish-sethuraman/readme-components">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
- </a>
-</p>
-<!--![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=🥰&desc=helloworld&fill=ffc0cd)-->
+ </a>-->
 
 ![Metrics](https://metrics.lecoq.io/marykolosova)
 
