@@ -35,6 +35,7 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
  </a>
 </p>
+<!--![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=🥰&desc=helloworld&fill=ffc0cd)-->
 
 ![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=marykolosova&theme=omni&show_icons=true)
 
