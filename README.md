@@ -37,6 +37,12 @@
 </p>
 <!--![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=🥰&desc=helloworld&fill=ffc0cd)-->
 
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marykolosova&theme=omni)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marykolosova&theme=omni)
+
+![Connits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marykolosova&theme=omni&utcOffset=8)
+
 ![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=marykolosova&theme=omni&show_icons=true)
 
 
