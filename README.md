@@ -1,14 +1,17 @@
 ### Hi there 👋
 <p align="center">
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMTtg_vCyUlYd7U7yjWHox8" height="200" />
+</p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p align="center">
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+  ![](https://komarev.com/ghpvc/?username=marykolosova&color=ff69b4)     
 
-![](https://komarev.com/ghpvc/?username=marykolosova&color=ff69b4)     
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Mary+-+Frontend+developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Mary+-+Frontend+developer)](https://git.io/typing-svg)
-
-## Things I use on a daily basis
+  ## Things I use on a daily basis
+</p>
 
 <p align="left">  
  <a href="https://github.com/harish-sethuraman/readme-components">
@@ -57,7 +60,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marykolosova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
 
 <!--
 **MaryKolosova/MaryKolosova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
