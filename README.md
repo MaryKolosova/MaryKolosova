@@ -9,7 +9,13 @@
   
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marykolosova&label=Profile%20views&color=0e75b6&style=flat" alt="marykolosova" /> </p>
+<h3 align="center">
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+  ![](https://komarev.com/ghpvc/?username=marykolosova&color=ff69b4)  
+  
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marykolosova" alt="marykolosova" /></a> </p>
 
@@ -33,15 +39,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marykolosova&show_icons=true&locale=en" alt="marykolosova" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marykolosova&" alt="marykolosova" /></p>
-<h3 align="center">
-  
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
-  
-</h3>
 
-<p align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=marykolosova&color=ff69b4)     
+<p align="center">   
 
   ## Things I use on a daily basis
 </p>
