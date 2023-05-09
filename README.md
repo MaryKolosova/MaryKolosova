@@ -1,9 +1,8 @@
-### Hi there 👋, my name is Mary
-#### I am a passionate Frontend developer
-
-Skills: REACT / JS / TYPESCRIPT / NODE.JS / BOOTSTRAP / GSAP / WEBPACK / HTML / CSS
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marykolosova)  
+<h3 align="center">  
+  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marykolosova) 
+    
+</h3> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marykolosova)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -16,6 +15,7 @@ Skills: REACT / JS / TYPESCRIPT / NODE.JS / BOOTSTRAP / GSAP / WEBPACK / HTML / 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=marykolosova)
 
 <h1 align="center">Hi there everyone 👋</h1>
+
 <p align="center">
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMTtg_vCyUlYd7U7yjWHox8" height="200" />
 </p>
@@ -34,15 +34,15 @@ Skills: REACT / JS / TYPESCRIPT / NODE.JS / BOOTSTRAP / GSAP / WEBPACK / HTML / 
   
 </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marykolosova" alt="marykolosova" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marykolosova" alt="marykolosova" /></a> </h3>
 
 <h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me **marykolasava@gmail.com**
 
 - ⚡ Fun fact **My first line of code was not 'Hello world'**
+
+Skills: REACT / JS / TYPESCRIPT / NODE.JS / BOOTSTRAP / GSAP / WEBPACK / HTML / CSS
 
 <p align="left">
 </p>
