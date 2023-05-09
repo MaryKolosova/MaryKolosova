@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mary</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<p align="center">
+  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMTtg_vCyUlYd7U7yjWHox8" height="200" />
+</p>
+
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Mary+-+a+PassionateFrontend+developer)](https://git.io/typing-svg)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marykolosova&label=Profile%20views&color=0e75b6&style=flat" alt="marykolosova" /> </p>
 
@@ -21,33 +25,15 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/maryk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/maryk" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marykolosova&show_icons=true&locale=en&layout=compact" alt="marykolosova" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marykolosova&show_icons=true&locale=en" alt="marykolosova" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marykolosova&" alt="marykolosova" /></p>
-
-
-
-
-
-
-
-
-
-
-### Hi there 👋
-<p align="center">
-  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMTtg_vCyUlYd7U7yjWHox8" height="200" />
-</p>
 
 <p align="center">
   
   ![Jokes Card](https://readme-jokes.vercel.app/api)
   
   ![](https://komarev.com/ghpvc/?username=marykolosova&color=ff69b4)     
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Mary+-+Frontend+developer)](https://git.io/typing-svg)
 
   ## Things I use on a daily basis
 </p>
