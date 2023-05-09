@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mary</h1>
+<h1 align="center">Hi there everyone 👋</h1>
 <p align="center">
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMTtg_vCyUlYd7U7yjWHox8" height="200" />
 </p>
 
 <h3 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Mary+-+a+PassionateFrontend+developer)](https://git.io/typing-svg)
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Mary+-+a+Passionate+Frontend+developer)](https://git.io/typing-svg)
+  
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marykolosova&label=Profile%20views&color=0e75b6&style=flat" alt="marykolosova" /> </p>
@@ -13,11 +15,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+
 - 📫 How to reach me **marykolasava@gmail.com**
 
 - ⚡ Fun fact **My first line of code was not 'Hello world'**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -30,10 +33,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marykolosova&show_icons=true&locale=en" alt="marykolosova" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marykolosova&" alt="marykolosova" /></p>
-
-<p align="center">
+<h3 align="center">
   
   ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+</h3>
+
+<p align="center">
   
   ![](https://komarev.com/ghpvc/?username=marykolosova&color=ff69b4)     
 
