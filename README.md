@@ -4,16 +4,6 @@
     
 </h3> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marykolosova)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marykolosova&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marykolosova)  
-
-![GitHub metrics](https://metrics.lecoq.io/marykolosova)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=marykolosova)
-
 <h1 align="center">Hi there everyone 👋</h1>
 
 <p align="center">
@@ -53,9 +43,7 @@ Skills: REACT / JS / TYPESCRIPT / NODE.JS / BOOTSTRAP / GSAP / WEBPACK / HTML / 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/maryk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/maryk" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marykolosova&show_icons=true&locale=en" alt="marykolosova" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marykolosova&" alt="marykolosova" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marykolosova&" alt="marykolosova" /></p>
 
 <p align="center">   
 
@@ -90,21 +78,18 @@ Skills: REACT / JS / TYPESCRIPT / NODE.JS / BOOTSTRAP / GSAP / WEBPACK / HTML / 
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
  </a>-->
 
-![Metrics](https://metrics.lecoq.io/marykolosova)
+![GitHub Metrics](https://metrics.lecoq.io/marykolosova)  
 
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marykolosova&theme=omni)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marykolosova&theme=omni)
-
-![Connits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marykolosova&theme=omni&utcOffset=8)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marykolosova&theme=omni)
 
 ![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=marykolosova&theme=omni&show_icons=true)
 
+![Connits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marykolosova&theme=omni&utcOffset=8)
+
 [![codewars](https://www.codewars.com/users/MaryKolosova/badges/large)](https://www.codewars.com/users/MaryKolosova)   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marykolosova)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marykolosova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MaryKolosova/MaryKolosova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
