@@ -3,7 +3,9 @@
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMTtg_vCyUlYd7U7yjWHox8" height="200" />
 </p>
 
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Mary+-+a+PassionateFrontend+developer)](https://git.io/typing-svg)</h3>
+<h3 align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Mary+-+a+PassionateFrontend+developer)](https://git.io/typing-svg)
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marykolosova&label=Profile%20views&color=0e75b6&style=flat" alt="marykolosova" /> </p>
 
