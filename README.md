@@ -1,3 +1,20 @@
+### Hi there 👋, my name is Mary
+#### I am a passionate Frontend developer
+
+Skills: REACT / JS / TYPESCRIPT / NODE.JS / BOOTSTRAP / GSAP / WEBPACK / HTML / CSS
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marykolosova)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=marykolosova)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marykolosova&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marykolosova)  
+
+![GitHub metrics](https://metrics.lecoq.io/marykolosova)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=marykolosova)
+
 <h1 align="center">Hi there everyone 👋</h1>
 <p align="center">
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMTtg_vCyUlYd7U7yjWHox8" height="200" />
@@ -83,15 +100,11 @@
 
 ![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=marykolosova&theme=omni&show_icons=true)
 
-
 [![codewars](https://www.codewars.com/users/MaryKolosova/badges/large)](https://www.codewars.com/users/MaryKolosova)   
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marykolosova)](https://git.io/streak-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marykolosova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **MaryKolosova/MaryKolosova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
